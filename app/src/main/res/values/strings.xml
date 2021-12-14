@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name" translatable="false">Quizi Party</string>
+    <string name="question">Question:</string>
+    <string name="check">Check</string>
+    <string name="correct">Very good!!</string>
+    <string name="incorrect">Incorrect...</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+    <string name="prev">Previous</string>
+    <string name="result">Results</string>
+    <string name="start_over">Start Over</string>
+    <string name="btn_new_list">Add New Quiz</string>
+    <string name="btn_play_quiz">Play Classic Quiz</string>
+    <string name="btn_play_quiz2">Play Custom Quiz</string>
+    <string name="text_add_question">New Question:</string>
+    <string name="text_answer">Wrong Answers:</string>
+    <string name="text_correct_answer">Correct Answer:</string>
+    <string name="btn_next_question">Add New Question</string>
+    <string name="btn_prueba">prueba</string>
+    <string name="btn_enter">Enter Game</string>
+    <string name="text_enter">Welcome to Quizi Party!</string>
+    <string name="text_enter_tip">Press the Enter Game button to start playing.</string>
+    <string name="text_list_tip">Here you can choose between our classic capital quiz or creating your own.</string>
+    <string name="text_quiz_tip">There is only one correct answer. The question can be left unanswered. </string>
+    <string name="text_new_list_tip">Here you can create a new question for your test list or delete the list with the button on the upper right corner.</string>
+    <string name="toast_lista_vacia">The custom list is empty.</string>
+    <string name="toast_borrado">The custom list was succesfully deleted.</string>
+    <string name="toast_insertada">Question succesfully inserted.</string>
+    <string name="toast_campos_vacíos">The fields cannot be blank.</string>
+    <string name="alert_borrar">Do you want to delete the custom list?</string>
+    <string name="alert_aceptar">Confirm</string>
+    <string name="alert_cancelar">Cancel</string>
+
+
+    <!--
+    <string name="question_content">What is the capital of Buthan?</string>
+    <array name="answers">
+        <item>Ougadougo</item>
+        <item>Pnohm Penh</item>
+        <item>Thimphu</item>
+        <item>Zgighiti</item>
+    </array>
+    <integer name="correct_answer">2</integer>
+    -->
+
+    <array name="all_questions">
+        <item>What is the capital of Buthan?;Ouagadougo;Phnom Penh;*Thimphu;Zgighiti</item>
+        <item>What is the capital of Finland?;Chisnau;Hellsinky;*Helsinki;Minsk</item>
+        <item>What is the capital of Ukraine?;Prague;*Kiev;Kieve;Belgrade;</item>
+        <item>What is the capital of Andorra?;*Andorra la Vella;Andromeda;Chisnau;Helsinki</item>
+        <item>What is the capital of Belgium?;*Brussels;Budapest;Riga;Sarajevo</item>
+        <item>What is the capital of Netherlands?;Sofia;Stockholm;*Amsterdam;Oslo</item>
+        <item>What is the capital of Hungary?;Monaco;*Budapest;Paris;Vaduz</item>
+        <item>What is the capital of Ireland?;Sarajevo;Reykjavik;Valletta;*Dublin</item>
+        <item>What is the capital of Portugal?;*Lisboa;Vilnius;Lisba;Zagreb</item>
+        <item>What is the capital of Spain?;Sevilla;Rome;Barcelona;*Madrid</item>
+    </array>
+
+</resources>

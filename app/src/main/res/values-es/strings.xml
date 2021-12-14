@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="question">Pregunta:</string>
+    <string name="check">Comprobar</string>
+    <string name="correct">¡¡Muy bien!!</string>
+    <string name="incorrect">Incorrecto...</string>
+    <string name="next">Siguiente</string>
+    <string name="finish">Terminar</string>
+    <string name="prev">Anterior</string>
+    <string name="result">Resultados</string>
+    <string name="start_over">Empezar de Nuevo</string>
+    <string name="btn_new_list">Añadir Nueva Lista</string>
+    <string name="btn_play_quiz">Jugar Quiz Clásico</string>
+    <string name="text_add_question">Nueva pregunta:</string>
+    <string name="text_answer">Respuestas:</string>
+    <string name="text_correct_answer">Respuesta correcta:</string>
+    <string name="btn_next_question">Insertar nueva pregunta</string>
+    <string name="btn_prueba">prueba</string>
+    <string name="btn_enter">Entrar</string>
+    <string name="text_enter">Bienvenido a Quizi Party!</string>
+    <string name="text_enter_tip">Presiona el boton "Entrar" para comenzar a jugar.</string>
+    <string name="btn_play_quiz2">Jugar Quiz Personalizado</string>
+    <string name="text_list_tip">Aquí puedes elegir jugar nuestro quiz clásico sobre capitales o crear el tuyo propio.</string>
+    <string name="text_quiz_tip">Solo una de las respuestas es correcta. Puedes dejar la pregunta sin responder.</string>
+    <string name="text_new_list_tip">Aquí puedes crear una pregunta nueva para tu lista de tests o borrar la lista con el boton superior derecho.</string>
+    <string name="toast_lista_vacia">La lista personalizada está vacía.</string>
+    <string name="toast_borrado">La lista ha sido borrada correctamente.</string>
+    <string name="toast_insertada">Pregunta añadida correctamente.</string>
+    <string name="toast_campos_vacíos">Los campos no pueden estar vacíos.</string>
+    <string name="alert_borrar">¿Quieres borrar la lista personalizada?</string>
+    <string name="alert_aceptar">Aceptar</string>
+    <string name="alert_cancelar">Cancelar</string>
+
+    <array name="all_questions">
+        <item>¿Cual es la capital de Bután?;Uagadugú;Nom Pen;*Timbu;Zigiti</item>
+        <item>¿Cual es la capital de Finlandia?;Chisináu;Hellsinky;*Helsinki;Minsk</item>
+        <item>¿Cual es la capital de Ucrania?;Praga;*Kiev;Kieve;Belgrado;</item>
+        <item>¿Cual es la capital de Andorra?;*Andorra la Vella;Andromeda;Chisináu;Helsinki</item>
+        <item>¿Cual es la capital de Bélgica?;*Bruselas;Budapest;Riga;Sarajevo</item>
+        <item>¿Cual es la capital de Países Bajos?;Sofía;Estocolmo;*Amsterdam;Oslo</item>
+        <item>¿Cual es la capital de Hungría?;Monaco;*Budapest;París;Vaduz</item>
+        <item>¿Cual es la capital de Irlanda?;Sarajevo;Reikiavik;Valeta;*Dublin</item>
+        <item>¿Cual es la capital de Portugal?;*Lisboa;Vilna;Lisba;Zagreb</item>
+        <item>¿Cual es la capital de España?;Sevilla;Roma;Barcelona;*Madrid</item>
+    </array>
+</resources>
