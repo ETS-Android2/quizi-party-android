@@ -85,7 +85,9 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
         android:layout_marginTop="32dp"
+        android:fontFamily="@font/wotfard_medium"
         android:text="@string/text_add_question"
+        android:textColor="#2D2D2D"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         tools:text="@string/text_add_question" />
@@ -95,10 +97,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
+        android:backgroundTint="#737373"
         android:ems="10"
         android:fontFamily="@font/wotfard_regular"
         android:gravity="start|top"
         android:inputType="text"
+        android:textColor="#FF0000"
+        android:textColorHint="#838383"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/text_add_question" />
 
@@ -108,7 +113,9 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
         android:layout_marginTop="24dp"
+        android:fontFamily="@font/wotfard_medium"
         android:text="@string/text_correct_answer"
+        android:textColor="#2D2D2D"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/etext_answer3"
         tools:text="@string/text_correct_answer" />
@@ -118,9 +125,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
+        android:backgroundTint="#737373"
         android:ems="10"
+        android:fontFamily="@font/wotfard_regular"
         android:gravity="start|top"
         android:inputType="text"
+        android:textColor="#FF0000"
+        android:textColorHint="#838383"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/text_correct_answer" />
 
@@ -130,7 +141,9 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
         android:layout_marginTop="24dp"
+        android:fontFamily="@font/wotfard_medium"
         android:text="@string/text_answer"
+        android:textColor="#2D2D2D"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/etext_question"
         tools:text="@string/text_answer" />
@@ -140,9 +153,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
+        android:backgroundTint="#737373"
         android:ems="10"
+        android:fontFamily="@font/wotfard_regular"
         android:gravity="start|top"
         android:inputType="text"
+        android:textColor="#FF0000"
+        android:textColorHint="#838383"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/text_answer" />
 
@@ -151,9 +168,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
+        android:backgroundTint="#737373"
         android:ems="10"
+        android:fontFamily="@font/wotfard_regular"
         android:gravity="start|top"
         android:inputType="text"
+        android:textColor="#FF0000"
+        android:textColorHint="#838383"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/etext_answer1" />
 
@@ -162,9 +183,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
+        android:backgroundTint="#737373"
         android:ems="10"
+        android:fontFamily="@font/wotfard_regular"
         android:gravity="start|top"
         android:inputType="text"
+        android:textColor="#FF0000"
+        android:textColorHint="#838383"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/etext_answer2" />
 

@@ -39,7 +39,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/wotfard_regular"
+        android:shadowColor="#A1A1A1"
         android:text="@string/question"
+        android:textColor="#5C5C5C"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.091"
@@ -56,7 +58,7 @@
         android:layout_marginTop="12dp"
         android:fontFamily="@font/wotfard_medium"
         android:text="TextView"
-        android:textColor="?android:attr/textColorPrimary"
+        android:textColor="#2d2d2d"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -69,7 +71,6 @@
         android:layout_below="@id/text_question"
         android:layout_marginTop="9dp"
         android:background="#813E3E3E"
-        app:layout_constraintBottom_toTopOf="@+id/radioGroup"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/text_question"
@@ -89,28 +90,32 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/wotfard_regular"
-            android:text="RadioButton" />
+            android:text="RadioButton"
+            android:textColor="#2d2d2d" />
 
         <RadioButton
             android:id="@+id/answer2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:fontFamily="@font/wotfard_light"
-            android:text="RadioButton" />
+            android:fontFamily="@font/wotfard_regular"
+            android:text="RadioButton"
+            android:textColor="#2d2d2d" />
 
         <RadioButton
             android:id="@+id/answer3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/wotfard_regular"
-            android:text="RadioButton" />
+            android:text="RadioButton"
+            android:textColor="#2d2d2d" />
 
         <RadioButton
             android:id="@+id/answer4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:fontFamily="@font/wotfard_regular"
-            android:text="RadioButton" />
+            android:text="RadioButton"
+            android:textColor="#2d2d2d" />
     </RadioGroup>
 
     <Button
